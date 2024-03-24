@@ -1,11 +1,11 @@
 # asking the user to input the swimming time
-swim_time_ = int(input("Enter the time taken for swimming, in minutes, please: "))
+swim_time_ = int(input("Enter the time taken for swimming, in minutes: "))
 
 # asking the user to input the cycling time
-cycle_time_ = int(input("Enter the time taken for cycling, in minutes, please: "))
+cycle_time_ = int(input("Enter the time taken for cycling, in minutes: "))
 
 # asking the user to input the running time
-run_time_ = int(input("Enter the time taken for running, in minutes, please: "))
+run_time_ = int(input("Enter the time taken for running, in minutes: "))
 
 total_minutes = swim_time_+cycle_time_+run_time_
 
